@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "579546195851",
+    "project_id": "fire-base-practice-91484",
+    "storage_bucket": "fire-base-practice-91484.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579546195851:android:7a5056a4b6704eec4e318e",
+        "android_client_info": {
+          "package_name": "com.onopunpun.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579546195851-25i6d2g2kbas7o93e47jmfc1ft89qn8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQ-tsukYwLwfmyG6GmmcGmTugDAXVmYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579546195851-25i6d2g2kbas7o93e47jmfc1ft89qn8l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "579546195851-1f2tnj5j4evr7foo1u15niabtvm8mv4a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onopunpun.authentication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579546195851:android:640d4b897da0a22d4e318e",
+        "android_client_info": {
+          "package_name": "com.onopunpun.fire_base_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579546195851-25i6d2g2kbas7o93e47jmfc1ft89qn8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQ-tsukYwLwfmyG6GmmcGmTugDAXVmYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579546195851-25i6d2g2kbas7o93e47jmfc1ft89qn8l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "579546195851-1f2tnj5j4evr7foo1u15niabtvm8mv4a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onopunpun.authentication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579546195851:android:96d9d41697e148cd4e318e",
+        "android_client_info": {
+          "package_name": "com.onopunpun.ostab_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579546195851-25i6d2g2kbas7o93e47jmfc1ft89qn8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQ-tsukYwLwfmyG6GmmcGmTugDAXVmYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579546195851-25i6d2g2kbas7o93e47jmfc1ft89qn8l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "579546195851-1f2tnj5j4evr7foo1u15niabtvm8mv4a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onopunpun.authentication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
